@@ -1,0 +1,40 @@
+/* Full page container with background */
+.rainwater-container {
+  height: 70vh;
+  width: 100%;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  position: relative;
+  font-family: 'Arial', sans-serif;
+}
+.background{
+  background-color: #A1CAF1;
+}
+/* Dark overlay effect */
+.overlay {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 40px;
+  border-radius: 8px;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.subtitle {
+  margin-top: 15px;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  color: #ffffff;
+}
+
+/* Force white subtitle specifically in the header overlay */
+.rainwater-container .overlay .subtitle {
+  color: #ffffff !important;
+}

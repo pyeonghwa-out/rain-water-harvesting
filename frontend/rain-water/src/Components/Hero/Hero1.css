@@ -1,0 +1,133 @@
+.predictor-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  min-height: 100vh;
+  padding: 60px;
+  gap: 40px;
+ 
+  overflow: hidden;
+  background-color:#A1CAF1 ;
+}
+
+
+/* Ensure content sits above overlay */
+.slider-container,
+.predictor-text {
+  position: relative;
+  z-index: 1;
+}
+
+/* --- SLIDER --- */
+.slider-container {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.slider-image img {
+  width: 400vw;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
+  transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
+
+.slider-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: gray;
+  border: none;
+  font-size: 24px;
+  color: black;
+  cursor: pointer;
+  padding: 8px 12px;
+  border-radius: 50%;
+  transition: background 0.3s ease;
+  z-index: 2;
+}
+
+.slider-btn:hover {
+  background: rgba(255, 255, 255, 0.4);
+}
+
+.slider-btn.left {
+  left: 30px;
+}
+
+.slider-btn.right {
+  right: 30px;
+}
+
+.slider-dots {
+  position: absolute;
+  bottom: -25px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  gap: 8px;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #4A6C8C;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.dot.active {
+  background: #4cc9f0;
+}
+
+/* --- TEXT --- */
+.predictor-text {
+  flex: 1;
+  max-width: 600px;
+}
+
+.predictor-subtitle {
+  font-size: 14px;
+  color: #10147f;
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+}
+
+.predictor-title {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.predictor-description {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  color: #831717;
+}
+
+.predictor-list {
+  list-style: disc;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  color: #f3f3f3;
+}
+
+.predictor-list li {
+  margin: 8px 0;
+}
+
+.predictor-footer {
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.predictor-footer span {
+  color: #4cc9f0;
+  font-weight: bold;
+}

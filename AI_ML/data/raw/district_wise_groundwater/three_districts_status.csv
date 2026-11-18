@@ -1,0 +1,10 @@
+Sl. No,District,Assessment_Unit_Name,Annual_Extractable_GW_Resource_Ham,Total_Extraction_Ham,Stage_of_GW_Extraction_Pct,Is_Summary_Row,Overall_Category,Net_Future_Availability_Ham
+1,Bengaluru (Urban),Anekal,8444.71,8637.31,102.28,0,Over-Exploited,0
+2,Bengaluru (Urban),Bangalore (North),1600.8,3348.83,209.2,0,Over-Exploited,0
+3,Bengaluru (Urban),Bangalore City,2128.15,4626.69,217.4,0,Over-Exploited,0
+4,Bengaluru (Urban),Bangalore-East,2450.63,5007.84,204.35,0,Over-Exploited,0
+5,Bengaluru (Urban),Bangalore-South,4311.46,5137.7,119.16,0,Over-Exploited,0
+6,Bengaluru (Urban),Yelahanka,2410.32,5439.97,225.69,0,Over-Exploited,0
+7,Bengaluru (Urban),BENGALURU SUMMARY,21346.07,32198.34,150.84,1,Over-Exploited,0
+8,Kodagu,KODAGU SUMMARY,22210.06,8971.17,40.39,1,Safe,13205.23
+9,Kalaburagi (Kalburgi),KALABURAGI SUMMARY,65286.1,26805.32,41.06,1,"Mostly Safe, with some Semi-Critical areas",38440.23

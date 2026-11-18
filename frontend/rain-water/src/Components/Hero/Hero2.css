@@ -1,0 +1,126 @@
+/* src/Components/Hero/Hero2.css */
+
+.account {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  color: #fff;
+  position: relative;
+}
+
+.account::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #A3CDEB;  
+  z-index: 1;
+}
+
+.account-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1100px;
+  width: 100%;
+  gap: 50px;
+  position: relative;
+  z-index: 2;
+}
+
+.account-image img {
+  width: 600px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.6);  
+}
+
+.account-content {
+  flex: 1;
+}
+
+.subtitle {
+  font-size: 1.5rem; 
+  letter-spacing: 1px;
+  color: #10147f !important;  
+  margin-bottom: 10px;
+}
+
+.account-content h1 {
+  font-size: 2.2rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: #333;  
+}
+
+.description {
+  font-size: 1rem;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.account-content ul {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.account-content ul li {
+  margin-bottom: 10px;
+  font-size: 0.95rem;
+  position: relative;
+  padding-left: 20px;
+  color: #333;
+}
+
+.account-content ul li::before {
+  content: "•";
+  color: #26a69a;
+  position: absolute;
+  left: 0;
+  font-size: 1.2rem;
+}
+
+.buttons {
+  margin-top: 20px;
+  /* 🔑 FIX: Guarantee display and spacing */
+  display: flex !important; 
+  gap: 15px;
+  /* Ensure no opacity/visibility issues */
+  visibility: visible !important; 
+  opacity: 1 !important;
+}
+
+/* Apply base styling to all buttons */
+.buttons .btn { 
+  padding: 10px 25px;
+  margin-right: 0;
+  border: 2px solid #26a69a;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-weight: 600;
+  /* Guarantee font color visibility */
+  color: #fff !important; 
+  /* Ensure button is clearly rendered */
+  display: inline-block !important;
+}
+
+/* Specific button styles (Login and Signup now look the same) */
+.btn.login,
+.btn.signup {
+  background: #07baa8; 
+  border-color: #07baa8;
+}
+
+/* Hover effects */
+.btn.login:hover,
+.btn.signup:hover {
+  background: #058f83; 
+  border-color: #058f83;
+}

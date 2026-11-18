@@ -1,0 +1,37 @@
+sl_no,state,distict,taluk,well_no,village_name,"type_of_well_
+dwbwtwpz",source,long,lat,"reduced_level_
+mamsl","aquifer
+_tapped",depth_mbgl,"purpose_of_monitoring
+_wl__wq__wl__wq","monitoring_mechanism_
+manual_dwlrtelemetry",pre_2016,post_2016
+76,Karnataka,Bengaluru Rural,Devanahalli,10503,Devanahalli,BW,SGWD,77.728,13.246,901.6,45 & 65,65.0,WL & WQ,Telemetry,42.29,42.97
+80,Karnataka,Bengaluru Rural,Devanahalli,W131500077433001,Devanahalli,BW,CGWB,77.725,13.25,901.6,45 & 65,60.0,WL,Manual,23.79,23.27
+78,Karnataka,Bengaluru Rural,Devanahalli,10507,Dinnuru,BW,SGWD,77.801,13.253,880.0,0-75,75.0,WL & WQ,Manual,51.68,46.01
+77,Karnataka,Bengaluru Rural,Devanahalli,10505,Jyothipura,BW,SGWD,77.629,13.293,927.91,62-64,64.2,WL & WQ,Manual,33.34,Submerged under Topsoil
+74,Karnataka,Bengaluru Rural,Devanahalli,10501,Kodagurki,BW,SGWD,77.701,13.299,928.11,86-87,90.0,WL & WQ,Manual,6.16,4.05
+79,Karnataka,Bengaluru Rural,Devanahalli,10509,Mudiganahalli,BW,SGWD,77.648,13.299,930.2,86-87,90.0,WL & WQ,Manual,20.47,15.25
+75,Karnataka,Bengaluru Rural,Devanahalli,10502,Vijayapura,BW,SGWD,77.797,13.295,900.0,56-58,58.0,WL & WQ,Manual,44.14,49.47
+81,Karnataka,Bengaluru Rural,Doddaballapura,10602,Bhakthararahalli ,BW ,SGWD,77.22,13.21,833.49,56-57 ,60.0,WL & WQ,Manual,14.8,8.9
+92,Karnataka,Bengaluru Rural,Doddaballapura,W131115077281501 ,Channadeviagrahara ,BW ,CGWB,77.471,13.188,892.0,Semi Confined,70.0,WL,Manual,39.15,39.03
+89,Karnataka,Bengaluru Rural,Doddaballapura,10616,Doddaballapura ,BW ,SGWD,77.331,13.16,900.0,56 & 52 ,62.5,WL & WQ,Telemetry ,58.98,57.74
+82,Karnataka,Bengaluru Rural,Doddaballapura,10607,Kanasawadi ,BW ,SGWD,77.26,13.12,880.0,35 & 55 ,60.0,WL & WQ,Manual,48.57,36.6
+83,Karnataka,Bengaluru Rural,Doddaballapura,10608,Kattihosahalli ,BW ,SGWD,77.22,13.16,930.0,32-33 ,90.0,WL & WQ,Manual,43.74,25.85
+91,Karnataka,Bengaluru Rural,Doddaballapura,W131830077323001 ,Kodigehalli ,BW ,CGWB,77.542,13.308,921.0,Unconfined,15.1,WL,Manual,30.78,24
+84,Karnataka,Bengaluru Rural,Doddaballapura,10610,Melekote ,BW ,SGWD,77.37,13.21,940.0,30 & 55 ,65.0,WL & WQ,Manual,20.85,21.97
+90,Karnataka,Bengaluru Rural,Doddaballapura,10620,Naranahalli ,BW ,SGWD,77.262,13.17,917.02,45,50.0,WL & WQ,Manual,30.31,23.78
+85,Karnataka,Bengaluru Rural,Doddaballapura,10612,Rajaghatta ,BW ,SGWD,77.35,13.19,916.89,65 & 88 ,90.0,WL & WQ,Manual,26.29,25.1
+87,Karnataka,Bengaluru Rural,Doddaballapura,10614,Tubugere ,BW ,SGWD,77.341,13.22,920.0,42-44 ,75.0,WL & WQ,Manual,38.58,43.5
+88,Karnataka,Bengaluru Rural,Doddaballapura,10615,Vanigarahalli ,BW ,SGWD,77.271,13.2,920.0,20 & 42 ,87.5,WL & WQ,Manual,41.46,Cap jam 
+93,Karnataka,Bengaluru Rural,Hoskote,10703,Anugondanahalli ,BW ,SGWD,77.485,12.57,867.18,20 & 40 ,60.0,WL & WQ,Manual,52.41,Borewell closed 
+94,Karnataka,Bengaluru Rural,Hoskote,10707,Channapura ,BW ,SGWD,77.52,13.06,882.44,30 & 80 ,180.0,WL & WQ,Manual,91.04,87.26
+95,Karnataka,Bengaluru Rural,Hoskote,10713,Hindiganalu ,BW ,SGWD,77.546,13.131,882.99,73,73.0,WL & WQ,Manual,57.46,Cap jam 
+97,Karnataka,Bengaluru Rural,Hoskote,10722,Hosakote ,BW ,SGWD,77.471,13.044,886.0,65-72 ,289.5,WL & WQ,Telemetry ,47.03,25.35
+98,Karnataka,Bengaluru Rural,Hoskote,W130430077463001 ,Hosakote ,BW ,CGWB,77.775,13.075,867.18,20 & 40 ,66.0,WL ,Manual,30.05,31.08
+96,Karnataka,Bengaluru Rural,Hoskote,10721,Upparahalli ,BW ,SGWD,77.463,13.054,874.83,0-72 ,72.0,WL & WQ,Manual,34.56,Cap jam 
+100,Karnataka,Bengaluru Rural,Nelamangala ,11006D ,Mahadevapura ,DW,SGWD,77.191,13.035,857.3,14-Feb,14.45,WL & WQ,Manual,11.2,5.6
+101,Karnataka,Bengaluru Rural,Nelamangala ,11007,Narasipura ,BW ,SGWD,77.144,13.162,920.0,43-44 ,78.79,WL & WQ,Manual,23.89,20.45
+102,Karnataka,Bengaluru Rural,Nelamangala ,11008,Nelamangala ,BW ,SGWD,77.241,13.054,880.0,25-30 ,242.42,WL & WQ,Telemetry ,58.35,58.9
+105,Karnataka,Bengaluru Rural,Nelamangala ,W131005077133001 ,Shivagange ,BW ,CGWB,77.225,13.168,919.0,Unconfined,10.5,WL,Manual,3.25,2.97
+99,Karnataka,Bengaluru Rural,Nelamangala ,11001,Thonachinakuppe ,BW ,SGWD,77.205,13.082,862.94,45 & 75 ,87.0,WL & WQ,Manual,22.94,30.82
+103,Karnataka,Bengaluru Rural,Nelamangala ,11011,Thyamagondlu ,BW ,SGWD,77.18,13.13,900.0,45-50 ,15.8,WL & WQ,Manual,25.49,13.15
+106,Karnataka,Bengaluru Rural,Nelamangala ,W130345077204501 ,Yantaganahalli ,BW ,CGWB,77.346,13.063,974.0,Unconfined,15.0,WL,Manual,15.37,14.81

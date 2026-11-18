@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments inside AI_ML
+AI_ML/newenv/
+AI_ML/myenv/
+
+# Global virtual env at root
+newenv/
+myenv/
+
+# Local Python environment
+.venv/
